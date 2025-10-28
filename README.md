@@ -1,5 +1,3 @@
-# COL216_Assignment2
-
 # RISC-V Pipeline Processor Simulator
 
 This project implements a RISC-V pipeline processor simulator in C++ with support for both forwarding and no-forwarding execution modes.
